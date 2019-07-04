@@ -42,3 +42,8 @@ a:active {color:gray;}  /* Selected link   */
   margin-top: 10px;
   margin-bottom: 10px;
 }
+
+.bmodal {
+
+	padding-left: 5px;
+}
